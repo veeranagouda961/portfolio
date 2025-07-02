@@ -9,6 +9,7 @@ function Footer() {
     <footer className={style.container} id="footer">
       <a href="/" className={style.logo}>
         VEERANAGOUDA
+        9901210621
       </a>
 
       <div className={style.paramLink}>
