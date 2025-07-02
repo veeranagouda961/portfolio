@@ -12,7 +12,7 @@ function Header() {
         <h1>VEERANAGOUDA</h1>
         <h5 className="text-light">WEB DEVELOPER</h5>
         <div className={style.cta}>
-          <a className="btn" href="" download>
+          <a className="btn" href="assets/Veeranagouda.pdf" download>
             Download CV
           </a>
           <a href="#contact" className="btn btn-primary">
