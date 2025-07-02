@@ -8,7 +8,7 @@ function Footer() {
   return (
     <footer className={style.container} id="footer">
       <a href="/" className={style.logo}>
-        VEERANAGOUDA
+        VEERANAGOUDA<br/>
         9901210621
       </a>
 
