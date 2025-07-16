@@ -14,7 +14,7 @@ function portfolio() {
           <h3 className={style.h3}>e-Wing</h3>
           <div className={style.btn}>
             <a
-              href="https://github.com/Shivaprasad-SK/eWing"
+              href="https://github.com/veeranagouda961/ewing"
               className="btn btn-primary"
             >
               Github
