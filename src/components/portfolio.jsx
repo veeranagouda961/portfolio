@@ -35,7 +35,7 @@ function portfolio() {
           <h3 className={style.h3}>Todo App</h3>
           <div className={style.btn}>
             <a
-              href="https://github.com/Shivaprasad-SK/TodoApp"
+              href="https://github.com/veeranagouda961/TodoApp"
               className="btn btn-primary"
             >
               Github
@@ -56,7 +56,7 @@ function portfolio() {
           <h3 className={style.h3}>Tic Toc Toe</h3>
           <div className={style.btn}>
             <a
-              href="https://github.com/Shivaprasad-SK/Tic-Tac-Toe.git"
+              href="https://github.com/veeranagouda961/Tic-Tac-Tic"
               className="btn btn-primary"
             >
               Github
